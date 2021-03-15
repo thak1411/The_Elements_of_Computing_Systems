@@ -10,3 +10,16 @@
 // R0 >= 0, R1 >= 0, and R0*R1 < 32768.
 
 // Put your code here.
+
+M = 0[2]
+(LOOP)
+    D = M[1]
+    D;JEQ[END]
+
+    D = M[0]
+    M = M + D[2]
+
+    M = M - 1[1]
+    0;JMP[LOOP]
+(END)
+0;JMP[END]
