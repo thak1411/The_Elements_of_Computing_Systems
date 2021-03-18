@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/morgan/Documents/rn/nand2tetris/projects/06/Assembler/Assembler.cc
+iostream
+-
+Parser.h
+/Users/morgan/Documents/rn/nand2tetris/projects/06/Assembler/Parser.h
+Code.h
+/Users/morgan/Documents/rn/nand2tetris/projects/06/Assembler/Code.h
+
+/Users/morgan/Documents/rn/nand2tetris/projects/06/Assembler/Code.h
+iostream
+-
+string
+-
+
+/Users/morgan/Documents/rn/nand2tetris/projects/06/Assembler/Parser.h
+iostream
+-
+fstream
+-
+vector
+-
+string
+-
+RnType.h
+/Users/morgan/Documents/rn/nand2tetris/projects/06/Assembler/RnType.h
+
+/Users/morgan/Documents/rn/nand2tetris/projects/06/Assembler/RnType.h
+
