@@ -9,6 +9,12 @@
 /Users/morgan/Documents/rn/nand2tetris/projects/06/Assembler/Assembler.cc
 iostream
 -
+string
+-
+bitset
+-
+SymbolTable.h
+/Users/morgan/Documents/rn/nand2tetris/projects/06/Assembler/SymbolTable.h
 Parser.h
 /Users/morgan/Documents/rn/nand2tetris/projects/06/Assembler/Parser.h
 Code.h
@@ -32,5 +38,13 @@ string
 RnType.h
 /Users/morgan/Documents/rn/nand2tetris/projects/06/Assembler/RnType.h
 
+/Users/morgan/Documents/rn/nand2tetris/projects/06/Assembler/RnType.h
+
+/Users/morgan/Documents/rn/nand2tetris/projects/06/Assembler/SymbolTable.h
+string
+-
+map
+-
+RnType.h
 /Users/morgan/Documents/rn/nand2tetris/projects/06/Assembler/RnType.h
 

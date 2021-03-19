@@ -34,6 +34,7 @@ namespace rn {
             std::getline(in, line);
             code.push_back(deleteWS(line));
         }
+        in.close();
     }
 
     /**

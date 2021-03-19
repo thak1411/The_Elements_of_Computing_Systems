@@ -5,6 +5,7 @@ CMakeFiles/Assembler-1.0.out.dir/Users/morgan/Documents/rn/nand2tetris/projects/
 CMakeFiles/Assembler-1.0.out.dir/Users/morgan/Documents/rn/nand2tetris/projects/06/Assembler/Assembler.o: /Users/morgan/Documents/rn/nand2tetris/projects/06/Assembler/Code.h
 CMakeFiles/Assembler-1.0.out.dir/Users/morgan/Documents/rn/nand2tetris/projects/06/Assembler/Assembler.o: /Users/morgan/Documents/rn/nand2tetris/projects/06/Assembler/Parser.h
 CMakeFiles/Assembler-1.0.out.dir/Users/morgan/Documents/rn/nand2tetris/projects/06/Assembler/Assembler.o: /Users/morgan/Documents/rn/nand2tetris/projects/06/Assembler/RnType.h
+CMakeFiles/Assembler-1.0.out.dir/Users/morgan/Documents/rn/nand2tetris/projects/06/Assembler/Assembler.o: /Users/morgan/Documents/rn/nand2tetris/projects/06/Assembler/SymbolTable.h
 
 CMakeFiles/Assembler-1.0.out.dir/Users/morgan/Documents/rn/nand2tetris/projects/06/Assembler/Code.o: /Users/morgan/Documents/rn/nand2tetris/projects/06/Assembler/Code.cc
 CMakeFiles/Assembler-1.0.out.dir/Users/morgan/Documents/rn/nand2tetris/projects/06/Assembler/Code.o: /Users/morgan/Documents/rn/nand2tetris/projects/06/Assembler/Code.h
@@ -13,5 +14,7 @@ CMakeFiles/Assembler-1.0.out.dir/Users/morgan/Documents/rn/nand2tetris/projects/
 CMakeFiles/Assembler-1.0.out.dir/Users/morgan/Documents/rn/nand2tetris/projects/06/Assembler/Parser.o: /Users/morgan/Documents/rn/nand2tetris/projects/06/Assembler/Parser.h
 CMakeFiles/Assembler-1.0.out.dir/Users/morgan/Documents/rn/nand2tetris/projects/06/Assembler/Parser.o: /Users/morgan/Documents/rn/nand2tetris/projects/06/Assembler/RnType.h
 
+CMakeFiles/Assembler-1.0.out.dir/Users/morgan/Documents/rn/nand2tetris/projects/06/Assembler/SymbolTable.o: /Users/morgan/Documents/rn/nand2tetris/projects/06/Assembler/RnType.h
 CMakeFiles/Assembler-1.0.out.dir/Users/morgan/Documents/rn/nand2tetris/projects/06/Assembler/SymbolTable.o: /Users/morgan/Documents/rn/nand2tetris/projects/06/Assembler/SymbolTable.cc
+CMakeFiles/Assembler-1.0.out.dir/Users/morgan/Documents/rn/nand2tetris/projects/06/Assembler/SymbolTable.o: /Users/morgan/Documents/rn/nand2tetris/projects/06/Assembler/SymbolTable.h
 
