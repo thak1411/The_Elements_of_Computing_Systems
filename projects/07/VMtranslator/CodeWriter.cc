@@ -1,18 +1,5 @@
 #include "CodeWriter.h"
 
-// namespace rn {
-//     class CodeWriter {
-//     private:
-//         std::ofstream out;
-//     public:
-//         CodeWriter(std::string);
-//         VOID setFileName(std::string);
-//         VOID writeArithmetic(std::string);
-//         VOID writePushPop(COMMAND_T);
-//         VOID close();
-//     };
-// }
-
 namespace rn {
     /**
      * @brief Construct of Code Writer Make output stream
