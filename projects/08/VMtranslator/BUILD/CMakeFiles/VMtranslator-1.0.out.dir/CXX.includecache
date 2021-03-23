@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/morgan/Documents/rn/nand2tetris/projects/08/VMtranslator/CodeWriter.cc
+CodeWriter.h
+/Users/morgan/Documents/rn/nand2tetris/projects/08/VMtranslator/CodeWriter.h
+
+/Users/morgan/Documents/rn/nand2tetris/projects/08/VMtranslator/CodeWriter.h
+iostream
+-
+fstream
+-
+string
+-
+RnType.h
+/Users/morgan/Documents/rn/nand2tetris/projects/08/VMtranslator/RnType.h
+
+/Users/morgan/Documents/rn/nand2tetris/projects/08/VMtranslator/RnType.h
+
