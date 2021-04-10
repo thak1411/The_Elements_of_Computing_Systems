@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/morgan/Documents/rn/nand2tetris/projects/10/JackAnalyzer/CompilationEngine.h
+
+/Users/morgan/Documents/rn/nand2tetris/projects/10/JackAnalyzer/JackAnalyzer.cc
+filesystem
+-
+iostream
+-
+vector
+-
+CompilationEngine.h
+/Users/morgan/Documents/rn/nand2tetris/projects/10/JackAnalyzer/CompilationEngine.h
+JackTokenizer.h
+/Users/morgan/Documents/rn/nand2tetris/projects/10/JackAnalyzer/JackTokenizer.h
+regex
+-
+
+/Users/morgan/Documents/rn/nand2tetris/projects/10/JackAnalyzer/JackTokenizer.h
+iostream
+-
+fstream
+-
+vector
+-
+string
+-
+regex
+-
+RnType.h
+/Users/morgan/Documents/rn/nand2tetris/projects/10/JackAnalyzer/RnType.h
+
+/Users/morgan/Documents/rn/nand2tetris/projects/10/JackAnalyzer/RnType.h
+
